@@ -1,7 +1,7 @@
 # Deploy NFTs on Polygon
 
-Based on a guide from [Pinata](https://medium.com/pinata/how-to-create-layer-2-nfts-with-polygon-and-ipfs-aef998ff8ef2)
-Understanding relationship between NFT contract, asset files and metadata.
+Based on a guide from [Pinata](https://medium.com/pinata/how-to-create-layer-2-nfts-with-polygon-and-ipfs-aef998ff8ef2)\
+Understanding the relationship between NFT contract, asset files and metadata.
 
 **Notes:**
    * asset file and metadata.json file are uploaded separately. 
